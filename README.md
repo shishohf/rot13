@@ -1,4 +1,4 @@
-# rot13
+# ROT13
 ROT13 function in C
 
 The ASCII table represents uppercase letters as decimal values 65 through 90 and lowercase letters as values 97 through 122. You can add 13 to the uppercase letters until the resulting value is less than or equal to 90 or to the lowercase letters until the value is less than or equal to 122. When you go above you must implement your own way of causing the value to wrap around back to the minimum.
